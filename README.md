@@ -73,9 +73,6 @@ Building intelligent, scalable, and production-ready software solutions.
 >
 > Access can be provided **upon request** for evaluation or collaboration purposes.
 
-👉 এটা **100% professional line**  
-👉 Client / teacher / recruiter এটা খুব normal ভাবে নেয়  
-👉 Trust + value বাড়ে
 
 ---
 
