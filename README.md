@@ -83,7 +83,7 @@ Building intelligent, scalable, and production-ready software solutions.
 ---
 
 ## 🤝 Let’s Connect
-- 🔗 LinkedIn: https://lnkd.in/eu4ztb_j
+- 🔗 my LinkedIn: https://lnkd.in/eu4ztb_j
 - 💬 Open to collaboration & freelance work
 - ⭐ If you find my work useful, consider starring my repositories
 <!--
