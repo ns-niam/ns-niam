@@ -78,9 +78,9 @@ Building intelligent, scalable, and production-ready software solutions.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ns-niam&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ns-niam&show_icons=true&theme=tokyonight&cache_seconds=0)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns-niam&layout=compact&theme=tokyonight" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ns-niam&layout=compact&theme=tokyonight&cache_seconds=0)
 
 ---
 
