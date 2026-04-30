@@ -34,12 +34,28 @@ Building intelligent, scalable, and production-ready software solutions.
 
 ---
 
-### 🤖 AI / Data Science
+### 🤖 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow)
+
+---
+
+### ⚙️ MLOps & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🧠 Generative AI / LLM
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-AI-blue?style=for-the-badge)
 
 ---
 
