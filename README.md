@@ -25,14 +25,6 @@ Building intelligent, scalable, and production-ready software solutions.
 
 ## 💻 Tech Stack
 
-### 📱 Android Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-Networking-green?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-Database-orange?style=for-the-badge)
-
----
 
 ### 🤖 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -76,6 +68,15 @@ Building intelligent, scalable, and production-ready software solutions.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+### 📱 Android Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-Networking-green?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-Database-orange?style=for-the-badge)
 
 ---
 
