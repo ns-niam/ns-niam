@@ -94,6 +94,14 @@ Building intelligent, scalable, and production-ready software solutions.
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ns-niam&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ns-niam&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ns-niam&theme=tokyo-night)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ns-niam&show_icons=true&theme=tokyonight&cache_seconds=0)
 
