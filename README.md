@@ -94,24 +94,12 @@ Building intelligent, scalable, and production-ready software solutions.
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ns-niam&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ns-niam&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ns-niam&theme=tokyo-night)
-
-## 📦 Project Stats
-
-![Issues](https://img.shields.io/github/issues/ns-niam/CiteMind-AI?style=for-the-badge)
-![Pull Requests](https://img.shields.io/github/issues-pr/ns-niam/CiteMind-AI?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/ns-niam/CiteMind-AI?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/ns-niam/CiteMind-AI?style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/ns-niam/CiteMind-AI?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/ns-niam/CiteMind-AI?style=for-the-badge)
-
----
 
 ## 👀 Visitors
 
