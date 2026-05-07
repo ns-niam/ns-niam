@@ -110,20 +110,24 @@ Building intelligent, scalable, and production-ready software solutions.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ns-niam&layout=compact&theme=tokyonight&cache_seconds=0)
 
 ---
-
 ## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://lnkd.in/eu4ztb_j">
     <img src="https://img.shields.io/badge/LinkedIn-NS%20Niam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:ns.niam.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ns.niam.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ns.niam.official@gmail.com-1F222E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
+
+💬 Open to collaboration & freelance work <br>
+⭐ If you find my work useful, consider starring my repositories
+
+</p>
   
 💬 Open to collaboration & freelance work <br>
 ⭐ If you find my work useful, consider starring my repositories
