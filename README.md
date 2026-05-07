@@ -108,12 +108,25 @@ Global thinker passionate about technology, product building, and scalable softw
 ---
 
 ## 🏆 Featured Work
+### 🔹 CiteMind AI
+Advanced RAG-based AI research assistant built for intelligent document understanding, contextual retrieval, semantic search and citation-aware knowledge generation.  
+Designed to enhance academic research workflows using LLMs, embeddings, vector databases, and retrieval-augmented generation architectures.
 
-> Add your best public projects here with short, recruiter-friendly descriptions.
+### 🔹 ML Batch Pipeline
+Production-oriented Machine Learning pipeline engineered for automated data processing, model training, evaluation, and deployment workflows.  
+Focused on reproducibility, modularity, and scalable ML operations for real-world AI systems.
 
-- **Niomira** — AI research web app with fast and research modes  
-- **ML Batch Pipeline** — automated ML workflow project  
-- **CiteMind AI** — intelligent research / citation-focused concept
+
+### 🔹 Niomira
+AI-powered research and knowledge discovery platform designed with dual intelligence modes —  
+⚡ Fast Mode for rapid responses and deep 🔬 Research Mode for advanced AI-assisted exploration.  
+Built with focus on scalable architecture, modern UI/UX, and intelligent retrieval workflows.
+
+---
+
+
+
+
 
 ---
 
