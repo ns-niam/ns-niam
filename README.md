@@ -112,11 +112,21 @@ Building intelligent, scalable, and production-ready software solutions.
 ---
 
 ## 🤝 Let’s Connect
-- 🔗 my LinkedIn: https://lnkd.in/eu4ztb_j
-- 💬 Open to collaboration & freelance work
+
+<p align="left">
+  <a href="https://lnkd.in/eu4ztb_j" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:ns.niam.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+- 💬 Open to collaboration & freelance work  
 - ⭐ If you find my work useful, consider starring my repositories
 <!--
-**ns-niam/ns-niam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ns-niam/ns-niam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
 
 Here are some ideas to get you started:
 
