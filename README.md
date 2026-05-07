@@ -114,34 +114,19 @@ Building intelligent, scalable, and production-ready software solutions.
 ## 🤝 Let’s Connect
 
 <p align="center">
+  <a href="https://lnkd.in/eu4ztb_j">
+    <img src="https://img.shields.io/badge/LinkedIn-NS%20Niam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:ns.niam.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ns.niam.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://lnkd.in/eu4ztb_j" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="mailto:ns.niam.official@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ns.niam.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  
+💬 Open to collaboration & freelance work <br>
+⭐ If you find my work useful, consider starring my repositories
 
 </p>
 
-<br>
-
-- 💬 Open to collaboration & freelance work  
-- ⭐ If you find my work useful, consider starring my repositories
-<!--
-**ns-niam/ns-niam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
