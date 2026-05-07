@@ -1,8 +1,10 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:0D1117,50:1F6FEB,100:58A6FF&amp;text=NS%20Niam&amp;fontColor=ffffff&amp;fontSize=55&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Android%20%26%20Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=18"/>
-
 </div>
+
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;Machine+Learning+%26+Automation;Android+%26+Full-Stack+Development;Open+to+Research+%26+Freelance+Collaborations" alt="Typing SVG" />
 
 <p align="center">
