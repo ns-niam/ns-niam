@@ -110,27 +110,39 @@ Building intelligent, scalable, and production-ready software solutions.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ns-niam&layout=compact&theme=tokyonight&cache_seconds=0)
 
 ---
-## 🤝 Let’s Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://lnkd.in/eu4ztb_j">
-    <img src="https://img.shields.io/badge/LinkedIn-NS%20Niam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+# 🤝 Let's Connect
 
-  <a href="mailto:ns.niam.official@gmail.com">
-    <img src="https://img.shields.io/badge/ns.niam.official@gmail.com-1F222E?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://lnkd.in/eu4ztb_j" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:ns.niam.official@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
 
-<p align="center">
+<br><br>
 
-💬 Open to collaboration & freelance work <br>
+<a href="https://lnkd.in/eu4ztb_j" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="mailto:ns.niam.official@gmail.com">
+  <img src="https://img.shields.io/badge/ns.niam.official@gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+to+AI%2FML+Collaborations;Building+Future+AI+Products;Freelance+Projects+%26+Research+Works;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+<div align="center">
+
+💬 Open to collaboration & freelance work  
 ⭐ If you find my work useful, consider starring my repositories
 
-</p>
-  
-💬 Open to collaboration & freelance work <br>
-⭐ If you find my work useful, consider starring my repositories
-
-</p>
-
+</div>
