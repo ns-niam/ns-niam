@@ -157,8 +157,9 @@ Built with focus on scalable architecture, modern UI/UX, and intelligent retriev
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ns-niam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns-niam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ns-niam&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns-niam&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -166,9 +167,8 @@ Built with focus on scalable architecture, modern UI/UX, and intelligent retriev
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ns-niam/ns-niam/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 🏅 GitHub Trophies
