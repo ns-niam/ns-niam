@@ -113,15 +113,21 @@ Building intelligent, scalable, and production-ready software solutions.
 
 ## 🤝 Let’s Connect
 
-<p align="left">
-  <a href="https://lnkd.in/eu4ztb_j" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<p align="center">
 
-  <a href="mailto:ns.niam.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://lnkd.in/eu4ztb_j" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:ns.niam.official@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ns.niam.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
+<br>
 
 - 💬 Open to collaboration & freelance work  
 - ⭐ If you find my work useful, consider starring my repositories
