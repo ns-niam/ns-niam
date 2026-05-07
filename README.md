@@ -156,12 +156,6 @@ Built with focus on scalable architecture, modern UI/UX, and intelligent retriev
   <img src="https://komarev.com/ghpvc/?username=ns-niam&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ns-niam&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns-niam&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
