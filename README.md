@@ -122,6 +122,12 @@ AI-powered research and knowledge discovery platform designed with dual intellig
 ⚡ Fast Mode for rapid responses and deep 🔬 Research Mode for advanced AI-assisted exploration.  
 Built with focus on scalable architecture, modern UI/UX, and intelligent retrieval workflows.
 
+◆ AI Research RAG
+
+Production-grade Retrieval-Augmented Generation (RAG) platform designed for intelligent research paper understanding using semantic embeddings, contextual retrieval, and vector-based search pipelines.
+
+Engineered with FAISS, Sentence Transformers, Streamlit, and modular AI architecture to deliver grounded, context-aware responses over research documents.
+
 ---
 
 
