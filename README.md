@@ -124,11 +124,6 @@ Production-oriented Machine Learning pipeline engineered for automated data proc
 Focused on reproducibility, modularity, and scalable ML operations for real-world AI systems.
 
 
-### 🔹 Niomira
-AI-powered research and knowledge discovery platform designed with dual intelligence modes —  
-⚡ Fast Mode for rapid responses and deep 🔬 Research Mode for advanced AI-assisted exploration.  
-Built with focus on scalable architecture, modern UI/UX, and intelligent retrieval workflows.
-
 ### 🔹  AI Research RAG
 
 Production-grade Retrieval-Augmented Generation (RAG) platform designed for intelligent research paper understanding using semantic embeddings, contextual retrieval and vector-based search pipelines.
