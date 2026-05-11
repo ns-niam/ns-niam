@@ -131,12 +131,6 @@ Engineered with FAISS, Sentence Transformers, Streamlit and modular AI architect
 
 ---
 
-
-
-
-
----
-
 ## 🔐 Private Projects Notice
 
 > ⚠️ **Important Note:**  
