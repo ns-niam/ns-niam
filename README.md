@@ -116,8 +116,7 @@ Global thinker passionate about technology, product building, and scalable softw
 
 ## 🏆 Featured Work
 ### 🔹 CiteMind AI
-Advanced RAG-based AI research assistant built for intelligent document understanding, contextual retrieval, semantic search and citation-aware knowledge generation.  
-Designed to enhance academic research workflows using LLMs, embeddings, vector databases, and retrieval-augmented generation architectures.
+Hybrid ML + RAG research assistant focused on semantic retrieval, citation-grounded generation, and confidence-aware AI responses. Designed for trustworthy academic and technical document understanding using LLMs, embeddings, vector databases, and retrieval-augmented generation pipelines.
 
 ### 🔹 ML Batch Pipeline
 Production-oriented Machine Learning pipeline engineered for automated data processing, model training, evaluation, and deployment workflows.  
