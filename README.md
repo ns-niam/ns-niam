@@ -118,6 +118,11 @@ Global thinker passionate about technology, product building, and scalable softw
 ### 🔹 CiteMind AI
 Hybrid ML + RAG research assistant focused on semantic retrieval, citation-grounded generation, and confidence-aware AI responses. Designed for trustworthy academic and technical document understanding using LLMs, embeddings, vector databases, and retrieval-augmented generation pipelines.
 
+### 🔹 SupportForge AI
+
+Enterprise Knowledge Intelligence Platform featuring Retrieval-Augmented Generation (RAG), Semantic Search, Workspace Isolation, Conversation Memory, and Multi-Provider AI Routing.
+Built with FastAPI, Next.js, Qdrant, Sentence Transformers, and modern LLM infrastructure to transform business documents into intelligent AI-powered support systems.
+
 ### 🔹 ML Batch Pipeline
 Production-oriented Machine Learning pipeline engineered for automated data processing, model training, evaluation, and deployment workflows.  
 Focused on reproducibility, modularity, and scalable ML operations for real-world AI systems.
