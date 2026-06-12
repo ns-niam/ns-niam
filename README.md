@@ -24,7 +24,7 @@ Global thinker passionate about technology, product building, and scalable softw
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Computer Systems & Software Engineering student at **KBTU**
 - 🤖 AI Engineer focused on **Machine Learning, LLMs & Data-Driven Systems**
@@ -115,6 +115,14 @@ Global thinker passionate about technology, product building, and scalable softw
 ---
 
 ## 🏆 Featured Work
+
+### 🔹 NexaDesk AI
+
+AI-Powered Banking Support Platform engineered for intelligent customer assistance, ticket management, analytics, audit monitoring, and workflow automation.
+
+Combines FastAPI, React, Gemini AI, Retrieval-Augmented Intelligence, Intent Detection, Customer Activity Tracking and Real-Time Dashboard Analytics to deliver scalable enterprise-grade support experiences.
+
+
 ### 🔹 CiteMind AI
 Hybrid ML + RAG research assistant focused on semantic retrieval, citation-grounded generation, and confidence-aware AI responses. Designed for trustworthy academic and technical document understanding using LLMs, embeddings, vector databases, and retrieval-augmented generation pipelines.
 
