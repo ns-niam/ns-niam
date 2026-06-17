@@ -118,9 +118,9 @@ Global thinker passionate about technology, product building, and scalable softw
 
 ### 🔹 NexaDesk AI
 
-AI-Powered Banking Support Platform engineered for intelligent customer assistance, ticket management, analytics, audit monitoring, and workflow automation.
+Enterprise AI Banking Support Platform integrating conversational AI, RAG-based knowledge retrieval, ticket lifecycle management, customer analytics, audit logging, and secure authentication.
 
-Combines FastAPI, React, Gemini AI, Retrieval-Augmented Intelligence, Intent Detection, Customer Activity Tracking and Real-Time Dashboard Analytics to deliver scalable enterprise-grade support experiences.
+Engineered with FastAPI, React, Gemini AI, Google OAuth, and modern cloud deployment practices to demonstrate scalable enterprise customer support architecture and intelligent workflow automation.
 
 
 ### 🔹 CiteMind AI
