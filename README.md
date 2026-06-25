@@ -2,27 +2,38 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=250&section=header&text=NS%20Niam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
 </p>
 
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;Machine+Learning+%26+Automation;Android+%26+Full-Stack+Development;Open+to+Research+%26+Freelance+Collaborations" alt="Typing SVG" />
-
 <p align="center">
-Global thinker passionate about technology, product building, and scalable software systems.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;LLMs+%7C+RAG+%7C+GenAI;AI+Automation+%26+Machine+Learning;Research+Assistant+@+KBTU;Open+to+AI+Engineering+Opportunities" />
 </p>
 
-<p align="center">
-  <a href="https://lnkd.in/eu4ztb_j" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ns.niam.official@gmail.com">
-    <img src="https://img.shields.io/badge/ns.niam.official@gmail.com-1F222E?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<h3 align="center">
+Building production-ready AI products with LLMs, RAG, AI Automation and scalable software systems.
+</h3>
 
-</div>
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+
+<a href="https://nsniam.dev">
+<img src="https://cdn.simpleicons.org/googlechrome/58A6FF" height="45"/>
+</a>
+
+<a href="https://github.com/ns-niam" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-sha-niamatullah" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:ns.niam.official@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
 
 ---
+
 
 ## About Me
 
