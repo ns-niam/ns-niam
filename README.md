@@ -137,6 +137,7 @@ Engineered with FastAPI, React, Gemini AI, Google OAuth, and modern cloud deploy
 ### 🔹 CiteMind AI
 Hybrid ML + RAG research assistant focused on semantic retrieval, citation-grounded generation, and confidence-aware AI responses. Designed for trustworthy academic and technical document understanding using LLMs, embeddings, vector databases, and retrieval-augmented generation pipelines.
 
+
 ### 🔹 SupportForge AI
 
 Enterprise Knowledge Intelligence Platform featuring Retrieval-Augmented Generation (RAG), Semantic Search, Workspace Isolation, Conversation Memory, and Multi-Provider AI Routing.
@@ -151,6 +152,13 @@ Focused on reproducibility, modularity, and scalable ML operations for real-worl
 
 Production-grade Retrieval-Augmented Generation (RAG) platform designed for intelligent research paper understanding using semantic embeddings, contextual retrieval and vector-based search pipelines.
 Engineered with FAISS, Sentence Transformers, Streamlit and modular AI architecture to deliver grounded, context-aware responses over research documents.
+
+### 🔹 ClimaCore
+Production-ready full-stack weather intelligence platform combining real-time weather insights, interactive maps, travel recommendations, cloud-based weather history management, and multi-format data export.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL • OpenWeatherMap • Leaflet • OpenStreetMap • YouTube Data API • Vercel
+
+---
 
 ---
 
