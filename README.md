@@ -160,8 +160,6 @@ Production-ready full-stack weather intelligence platform combining real-time we
 
 ---
 
----
-
 ## 🔐 Private Projects Notice
 
 > ⚠️ **Important Note:**  
