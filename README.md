@@ -195,12 +195,6 @@ Production-ready full-stack weather intelligence platform combining real-time we
 </p>
 
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ns-niam&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
