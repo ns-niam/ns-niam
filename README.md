@@ -135,7 +135,7 @@ A multi-tenant AI platform combining organization-specific RAG assistants, seman
 
 Engineered with FastAPI, React, TypeScript, PostgreSQL, Qdrant, Gemini AI, and Scikit-learn, with a focus on tenant isolation, secure access control, model governance, explainable AI, reliability, and production deployment.
 
-**Tech Stack:** Python • FastAPI • React • TypeScript • PostgreSQL • Qdrant • Gemini AI • Scikit-learn • Docker • Azure • Vercel
+**Tech Stack:** Python • FastAPI • React • TypeScript • Vite • PostgreSQL • SQLAlchemy • Alembic • Qdrant • Google Gemini • RAG • Scikit-learn • Random Forest • Pandas • NumPy • Joblib • Docker • Pytest • JWT • API Keys • RBAC • Azure • Vercel
 
 **Repository:** [View on GitHub](https://github.com/ns-niam/Nexora-AI) · *Private Project*
 
@@ -148,7 +148,7 @@ A cybersecurity-focused project exploring phishing detection, suspicious URL ana
 
 Designed around NLP, Machine Learning, Computer Vision, URL intelligence, and threat-intelligence signals to support explainable risk assessment and cybersecurity decision support.
 
-**Tech Stack:** Python • FastAPI • Next.js • React • TypeScript • Scikit-learn • NLP • Transformers • Sentence Transformers • OpenCV • PyTorch • PostgreSQL • Supabase
+**Tech Stack:** Python • FastAPI • Uvicorn • Pydantic • Next.js • React • TypeScript • Tailwind CSS • Scikit-learn • NLP • NLTK • spaCy • Hugging Face Transformers • Sentence Transformers • OpenCV • Pillow • PyTorch • Pandas • NumPy • PostgreSQL • Supabase • Requests • BeautifulSoup • URL Analysis
 
 **Repository:** [View on GitHub](https://github.com/ns-niam/CyberGuard-AI) · *Private Project*
 
