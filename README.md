@@ -127,6 +127,24 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
 
 ## 🏆 Featured Work
 
+### 🔹 Nexora AI
+
+Production-oriented Multi-Tenant AI Platform for Knowledge Intelligence and Clinical Risk Analysis, combining organization-specific RAG assistants, semantic knowledge retrieval, cited AI generation, and machine learning–based clinical risk intelligence.
+
+Engineered with FastAPI, React, TypeScript, PostgreSQL, Qdrant, Gemini AI, and Scikit-learn, with a strong focus on multi-tenant architecture, secure access control, model governance, explainable AI, reliability, and production deployment.
+
+**Tech Stack:** Python • FastAPI • React • TypeScript • PostgreSQL • Qdrant • Gemini AI • Scikit-learn • Docker • Azure • Vercel
+
+
+### 🔹 CyberGuard AI
+
+AI-Powered Digital Threat & Online Safety Intelligence Platform focused on identifying phishing, suspicious URLs, malicious web indicators, harmful digital content, and online safety risks through AI-driven security assessment.
+
+Designed to combine NLP, Machine Learning, Computer Vision, URL intelligence, and threat-intelligence signals into an explainable risk assessment platform for safer digital interactions and cybersecurity decision support.
+
+**Tech Stack:** Python • FastAPI • Next.js • React • TypeScript • Scikit-learn • NLP • Transformers • Sentence Transformers • OpenCV • PyTorch • PostgreSQL • Supabase
+
+
 ### 🔹 NexaDesk AI
 
 Enterprise AI Banking Support Platform integrating conversational AI, RAG-based knowledge retrieval, ticket lifecycle management, customer analytics, audit logging, and secure authentication.
@@ -135,28 +153,39 @@ Engineered with FastAPI, React, Gemini AI, Google OAuth, and modern cloud deploy
 
 
 ### 🔹 CiteMind AI
+
 Hybrid ML + RAG research assistant focused on semantic retrieval, citation-grounded generation, and confidence-aware AI responses. Designed for trustworthy academic and technical document understanding using LLMs, embeddings, vector databases, and retrieval-augmented generation pipelines.
 
 
 ### 🔹 SupportForge AI
 
 Enterprise Knowledge Intelligence Platform featuring Retrieval-Augmented Generation (RAG), Semantic Search, Workspace Isolation, Conversation Memory, and Multi-Provider AI Routing.
+
 Built with FastAPI, Next.js, Qdrant, Sentence Transformers, and modern LLM infrastructure to transform business documents into intelligent AI-powered support systems.
 
+
 ### 🔹 ML Batch Pipeline
-Production-oriented Machine Learning pipeline engineered for automated data processing, model training, evaluation, and deployment workflows.  
+
+Production-oriented Machine Learning pipeline engineered for automated data processing, model training, evaluation, and deployment workflows.
+
 Focused on reproducibility, modularity, and scalable ML operations for real-world AI systems.
 
 
-### 🔹  AI Research RAG
+### 🔹 AI Research RAG
 
-Production-grade Retrieval-Augmented Generation (RAG) platform designed for intelligent research paper understanding using semantic embeddings, contextual retrieval and vector-based search pipelines.
-Engineered with FAISS, Sentence Transformers, Streamlit and modular AI architecture to deliver grounded, context-aware responses over research documents.
+Production-grade Retrieval-Augmented Generation (RAG) platform designed for intelligent research paper understanding using semantic embeddings, contextual retrieval, and vector-based search pipelines.
+
+Engineered with FAISS, Sentence Transformers, Streamlit, and modular AI architecture to deliver grounded, context-aware responses over research documents.
+
 
 ### 🔹 ClimaCore
+
 Production-ready full-stack weather intelligence platform combining real-time weather insights, interactive maps, travel recommendations, cloud-based weather history management, and multi-format data export.
 
 **Tech Stack:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL • OpenWeatherMap • Leaflet • OpenStreetMap • YouTube Data API • Vercel
+
+
+> **Note:** Nexora AI and CyberGuard AI are private personal projects developed by Md Sha Niamatullah. Selected implementation details, source code, models, datasets, and internal architecture are not publicly available.
 
 ---
 
