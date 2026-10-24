@@ -127,71 +127,118 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
 
 ## 🏆 Featured Work
 
-### 🔹 Nexora AI
+### 🔹 [Nexora AI](https://github.com/ns-niam/Nexora-AI)
 
-Production-oriented Multi-Tenant AI Platform for Knowledge Intelligence and Clinical Risk Analysis, combining organization-specific RAG assistants, semantic knowledge retrieval, cited AI generation, and machine learning–based clinical risk intelligence.
+**Production-Oriented Multi-Tenant AI Platform for Knowledge Intelligence & Clinical Risk Analysis**
 
-Engineered with FastAPI, React, TypeScript, PostgreSQL, Qdrant, Gemini AI, and Scikit-learn, with a strong focus on multi-tenant architecture, secure access control, model governance, explainable AI, reliability, and production deployment.
+A multi-tenant AI platform combining organization-specific RAG assistants, semantic knowledge retrieval, cited AI generation, and machine learning–based clinical risk intelligence.
+
+Engineered with FastAPI, React, TypeScript, PostgreSQL, Qdrant, Gemini AI, and Scikit-learn, with a focus on tenant isolation, secure access control, model governance, explainable AI, reliability, and production deployment.
 
 **Tech Stack:** Python • FastAPI • React • TypeScript • PostgreSQL • Qdrant • Gemini AI • Scikit-learn • Docker • Azure • Vercel
 
+**Repository:** [View on GitHub](https://github.com/ns-niam/Nexora-AI) · *Private Project*
 
-### 🔹 CyberGuard AI
 
-AI-Powered Digital Threat & Online Safety Intelligence Platform focused on identifying phishing, suspicious URLs, malicious web indicators, harmful digital content, and online safety risks through AI-driven security assessment.
+### 🔹 [CyberGuard AI](https://github.com/ns-niam/CyberGuard-AI)
 
-Designed to combine NLP, Machine Learning, Computer Vision, URL intelligence, and threat-intelligence signals into an explainable risk assessment platform for safer digital interactions and cybersecurity decision support.
+**AI-Powered Digital Threat & Online Safety Intelligence Platform**
+
+A cybersecurity-focused project exploring phishing detection, suspicious URL analysis, malicious web indicators, harmful digital content assessment, and online safety risks through AI-driven security analysis.
+
+Designed around NLP, Machine Learning, Computer Vision, URL intelligence, and threat-intelligence signals to support explainable risk assessment and cybersecurity decision support.
 
 **Tech Stack:** Python • FastAPI • Next.js • React • TypeScript • Scikit-learn • NLP • Transformers • Sentence Transformers • OpenCV • PyTorch • PostgreSQL • Supabase
 
-
-### 🔹 NexaDesk AI
-
-**Enterprise AI Banking Customer Support & Ticket Management Platform** combining conversational AI, Retrieval-Augmented Generation (RAG), intelligent intent classification, automated ticket workflows, human-agent escalation, customer analytics, and operational audit monitoring.
-
-Engineered a full-stack banking support ecosystem where customers can interact with an AI assistant, retrieve knowledge-grounded responses, create and track support requests, and receive human-agent escalation when required. The platform also provides administrators with customer activity analytics, ticket lifecycle management, conversation monitoring, feedback intelligence, and audit visibility.
-
-**Tech Stack:** React • Vite • JavaScript • FastAPI • Python • Uvicorn • Google Gemini • RAG • Intent Classification • FAQ Retrieval • SQLite • Google OAuth 2.0 • REST APIs • API Key Security • Vercel • Railway • GitHub
+**Repository:** [View on GitHub](https://github.com/ns-niam/CyberGuard-AI) · *Private Project*
 
 
-### 🔹 CiteMind AI
+### 🔹 [NexaDesk AI](https://github.com/ns-niam/nexadesk-ai)
 
-**Hybrid ML + RAG Research Assistant with Verifiable Citations** designed for trustworthy academic and technical document understanding. The system combines semantic retrieval, citation-aware generation, dual-LLM reasoning, and ML-based confidence prediction to produce grounded research answers with traceable sources.
+**Enterprise AI Banking Customer Support & Ticket Management Platform**
 
-Engineered an end-to-end research pipeline supporting multi-format document ingestion, vector-based semantic search, MMR retrieval optimization, Groq and Gemini model routing, citation tracking, hallucination-aware response handling, and ML-powered confidence assessment. The platform also includes RAG evaluation and MLflow experiment tracking for systematic model and retrieval analysis.
+Combines conversational AI, Retrieval-Augmented Generation (RAG), intelligent intent classification, ticket workflows, human-agent escalation, customer analytics, and operational audit monitoring.
 
-**Tech Stack:** Python • LangChain • Streamlit • Sentence Transformers • ChromaDB • Groq Llama 3.3 70B • Gemini 2.5 Flash • Scikit-learn • Random Forest • MLflow • RAG • MMR Retrieval • pdfplumber • python-docx • Docker • Matplotlib • Plotly
+Engineered a full-stack banking support system where customers can interact with an AI assistant, retrieve knowledge-grounded responses, create and track support requests, and receive human-agent escalation. Administrative capabilities include ticket lifecycle management, customer activity analytics, conversation monitoring, feedback intelligence, and audit visibility.
 
+**Tech Stack:** React • Vite • JavaScript • FastAPI • Python • Uvicorn • Google Gemini • RAG • Intent Classification • FAQ Retrieval • SQLite • Google OAuth 2.0 • REST APIs • Vercel • Railway
 
-### 🔹 SupportForge AI
-
-Enterprise Knowledge Intelligence Platform featuring Retrieval-Augmented Generation (RAG), Semantic Search, Workspace Isolation, Conversation Memory, and Multi-Provider AI Routing.
-
-Built with FastAPI, Next.js, Qdrant, Sentence Transformers, and modern LLM infrastructure to transform business documents into intelligent AI-powered support systems.
+**Repository:** [View Source Code](https://github.com/ns-niam/nexadesk-ai)
 
 
-### 🔹 ML Batch Pipeline
+### 🔹 [CiteMind AI](https://github.com/ns-niam/CiteMind-ai)
 
-Production-oriented Machine Learning pipeline engineered for automated data processing, model training, evaluation, and deployment workflows.
+**Hybrid ML + RAG Research Assistant with Verifiable Citations**
 
-Focused on reproducibility, modularity, and scalable ML operations for real-world AI systems.
+A research assistant designed for trustworthy academic and technical document understanding. Combines semantic retrieval, citation-aware generation, dual-LLM reasoning, and ML-based confidence prediction to produce grounded answers with traceable sources.
+
+Features multi-format document ingestion, vector-based semantic search, MMR retrieval optimization, Groq and Gemini model routing, citation tracking, confidence-aware response handling, RAG evaluation, and MLflow experiment tracking.
+
+**Tech Stack:** Python • LangChain • Streamlit • Sentence Transformers • ChromaDB • Groq Llama 3.3 70B • Gemini 2.5 Flash • Scikit-learn • Random Forest • MLflow • RAG • MMR Retrieval • Docker • Matplotlib • Plotly
+
+**Repository:** [View Source Code](https://github.com/ns-niam/CiteMind-ai)
 
 
-### 🔹 AI Research RAG
+### 🔹 [SupportForge AI](https://github.com/ns-niam/supportforge-ai)
 
-Production-grade Retrieval-Augmented Generation (RAG) platform designed for intelligent research paper understanding using semantic embeddings, contextual retrieval, and vector-based search pipelines.
+**Enterprise Knowledge Intelligence Platform**
 
-Engineered with FAISS, Sentence Transformers, Streamlit, and modular AI architecture to deliver grounded, context-aware responses over research documents.
+An AI-powered knowledge platform featuring Retrieval-Augmented Generation (RAG), semantic search, workspace isolation, conversation memory, and multi-provider AI routing.
+
+Built with FastAPI, Next.js, Qdrant, Sentence Transformers, and LLM infrastructure to transform business documents into intelligent support and knowledge systems.
+
+**Tech Stack:** FastAPI • Python • Next.js • React • Qdrant • Sentence Transformers • RAG • LLM Integration
+
+**Repository:** [View Source Code](https://github.com/ns-niam/supportforge-ai)
 
 
-### 🔹 ClimaCore
+### 🔹 [ML Batch Pipeline](https://github.com/ns-niam/ML-Batch-Pipeline)
 
-Production-ready full-stack weather intelligence platform combining real-time weather insights, interactive maps, travel recommendations, cloud-based weather history management, and multi-format data export.
+**Machine Learning Pipeline & MLOps**
+
+A machine learning pipeline focused on automated data processing, model training, evaluation, and repeatable workflows.
+
+Designed around modularity and reproducibility to support structured ML experimentation and model development.
+
+**Repository:** [View on GitHub](https://github.com/ns-niam/ML-Batch-Pipeline)
+
+
+### 🔹 [AI Research RAG](https://github.com/ns-niam/AI-Research-RAG)
+
+**Retrieval-Augmented Generation for Research Paper Understanding**
+
+A RAG-based research platform designed to support document understanding through semantic embeddings, contextual retrieval, and vector-based search.
+
+Built with FAISS, Sentence Transformers, Streamlit, and modular AI components to generate context-aware responses grounded in research documents.
+
+**Tech Stack:** Python • FAISS • Sentence Transformers • Streamlit • RAG
+
+**Repository:** [View Source Code](https://github.com/ns-niam/AI-Research-RAG)
+
+
+### 🔹 [ClimaCore](https://github.com/ns-niam/climacore)
+
+**Full-Stack Weather Intelligence Platform**
+
+A weather intelligence application combining real-time weather information, interactive maps, travel recommendations, cloud-based weather history, and multi-format data export.
 
 **Tech Stack:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL • OpenWeatherMap • Leaflet • OpenStreetMap • YouTube Data API • Vercel
 
+**Repository:** [View Source Code](https://github.com/ns-niam/climacore)
 
-> **Note:** Nexora AI and CyberGuard AI are private personal projects developed by Md Sha Niamatullah. Selected implementation details, source code, models, datasets, and internal architecture are not publicly available.
+
+### 🔹 [WeatherTrendAI](https://github.com/ns-niam/WeatherTrendAI)
+
+**Weather Intelligence & Trend Analysis Project**
+
+Explore the repository for its implementation, features, and technical details.
+
+**Repository:** [View Source Code](https://github.com/ns-niam/WeatherTrendAI)
+
+
+---
+
+> **Private Projects Notice:** Nexora AI and CyberGuard AI are private personal projects. Selected source code, models, datasets, and internal implementation details are not publicly available.
 
 ---
 
