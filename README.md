@@ -147,14 +147,20 @@ Designed to combine NLP, Machine Learning, Computer Vision, URL intelligence, an
 
 ### 🔹 NexaDesk AI
 
-Enterprise AI Banking Support Platform integrating conversational AI, RAG-based knowledge retrieval, ticket lifecycle management, customer analytics, audit logging, and secure authentication.
+**Enterprise AI Banking Customer Support & Ticket Management Platform** combining conversational AI, Retrieval-Augmented Generation (RAG), intelligent intent classification, automated ticket workflows, human-agent escalation, customer analytics, and operational audit monitoring.
 
-Engineered with FastAPI, React, Gemini AI, Google OAuth, and modern cloud deployment practices to demonstrate scalable enterprise customer support architecture and intelligent workflow automation.
+Engineered a full-stack banking support ecosystem where customers can interact with an AI assistant, retrieve knowledge-grounded responses, create and track support requests, and receive human-agent escalation when required. The platform also provides administrators with customer activity analytics, ticket lifecycle management, conversation monitoring, feedback intelligence, and audit visibility.
+
+**Tech Stack:** React • Vite • JavaScript • FastAPI • Python • Uvicorn • Google Gemini • RAG • Intent Classification • FAQ Retrieval • SQLite • Google OAuth 2.0 • REST APIs • API Key Security • Vercel • Railway • GitHub
 
 
 ### 🔹 CiteMind AI
 
-Hybrid ML + RAG research assistant focused on semantic retrieval, citation-grounded generation, and confidence-aware AI responses. Designed for trustworthy academic and technical document understanding using LLMs, embeddings, vector databases, and retrieval-augmented generation pipelines.
+**Hybrid ML + RAG Research Assistant with Verifiable Citations** designed for trustworthy academic and technical document understanding. The system combines semantic retrieval, citation-aware generation, dual-LLM reasoning, and ML-based confidence prediction to produce grounded research answers with traceable sources.
+
+Engineered an end-to-end research pipeline supporting multi-format document ingestion, vector-based semantic search, MMR retrieval optimization, Groq and Gemini model routing, citation tracking, hallucination-aware response handling, and ML-powered confidence assessment. The platform also includes RAG evaluation and MLflow experiment tracking for systematic model and retrieval analysis.
+
+**Tech Stack:** Python • LangChain • Streamlit • Sentence Transformers • ChromaDB • Groq Llama 3.3 70B • Gemini 2.5 Flash • Scikit-learn • Random Forest • MLflow • RAG • MMR Retrieval • pdfplumber • python-docx • Docker • Matplotlib • Plotly
 
 
 ### 🔹 SupportForge AI
