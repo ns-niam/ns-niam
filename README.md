@@ -37,13 +37,13 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
 
 ## About Me
 
-- 🎓 Computer Systems & Software Engineering student at **KBTU**
-- 🤖 AI Engineer focused on **Machine Learning, LLMs & Data-Driven Systems**
-- 📱 Android Developer using **Kotlin + MVVM**
-- 🌐 Software Engineer experienced in **Web & Backend Development**
-- ☁️ Familiar with cloud platforms, APIs, databases, and deployment workflows
-- 🧠 Strong problem-solving, system design, and product thinking mindset
-- 💼 Open to **freelance, startup, and research collaborations**
+-  Computer Systems & Software Engineering student at **KBTU**
+-  AI Engineer focused on **Machine Learning, LLMs & Data-Driven Systems**
+-  Android Developer using **Kotlin + MVVM**
+-  Software Engineer experienced in **Web & Backend Development**
+-  Familiar with cloud platforms, APIs, databases, and deployment workflows
+-  Strong problem-solving, system design, and product thinking mindset
+-  Open to **freelance, startup, and research collaborations**
 
 ---
 
@@ -61,7 +61,7 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
 
 ## 💻 Tech Stack
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
@@ -71,7 +71,7 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow" />
 </p>
 
-### 🧠 Generative AI / LLM
+###  Generative AI / LLM
 <p>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
@@ -79,7 +79,7 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
   <img src="https://img.shields.io/badge/LLM-161B22?style=for-the-badge" />
 </p>
 
-### ⚙️ MLOps & Deployment
+###  MLOps & Deployment
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -87,14 +87,14 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### ⚙️ AI Automation
+###  AI Automation
 <p>
   <img src="https://img.shields.io/badge/n8n-1E1E1E?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge&logo=make&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
 </p>
 
-### 🌐 Web & Backend
+###  Web & Backend
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -105,7 +105,7 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
   <img src="https://img.shields.io/badge/REST%20API-1F6FEB?style=for-the-badge" />
 </p>
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
@@ -114,7 +114,7 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
 </p>
 
-### 📱 Android Development
+###  Android Development
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -125,7 +125,7 @@ Building production-ready AI products with LLMs, RAG, AI Automation and scalable
 
 ---
 
-## 🏆 Featured Work
+##  Featured Work
 
 ### 🔹 [Nexora AI](https://github.com/ns-niam/Nexora-AI)
 
@@ -254,7 +254,7 @@ Explore the repository for its implementation, features, and technical details.
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ns-niam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -270,7 +270,7 @@ Explore the repository for its implementation, features, and technical details.
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
