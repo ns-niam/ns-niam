@@ -1,3 +1,4 @@
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=250&section=header&text=NS%20Niam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Software%20Engineer%20|%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
 </p>
@@ -10,29 +11,36 @@
 Building production-ready AI products with LLMs, RAG, AI Automation and scalable software systems.
 </h3>
 
-
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
 
-<a href="https://nsniam.dev">
-<img src="https://cdn.simpleicons.org/googlechrome/58A6FF" height="45"/>
+<a href="https://nsniam.dev" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome/58A6FF" height="45" alt="Portfolio"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://github.com/ns-niam" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/md-sha-niamatullah" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
+
+<a href="https://t.me/NsNiam" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="Telegram"/>
+</a>
+&nbsp;&nbsp;
 
 <a href="mailto:ns.niam.official@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
 </a>
+
 </p>
 
----
 
 
 ## About Me
